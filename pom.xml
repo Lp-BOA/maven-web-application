@@ -102,8 +102,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	     <url>http://3.87.240.210:4000/repository/cl-prac-snapshot/</url>
+	      <name>admin</name>
+	     <url>http://54.146.253.127:4000/repository/zelle-cl-snaphot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
